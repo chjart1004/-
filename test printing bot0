@@ -1,0 +1,5 @@
+class printing:
+    def setdata(self,first):
+        self.first=first
+    def pp(self)
+        print(self.first)
